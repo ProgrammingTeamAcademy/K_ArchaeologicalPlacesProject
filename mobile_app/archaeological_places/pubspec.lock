@@ -49,6 +49,11 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.2.0"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> f642093 (Refactored project structure: renamed screens to views and updated files)
   crypto:
     dependency: transitive
     description:
@@ -57,6 +62,10 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.3"
+<<<<<<< HEAD
+=======
+>>>>>>> f4a3591 (Refactored project structure to follow MVC pattern using GetX)
+>>>>>>> f642093 (Refactored project structure: renamed screens to views and updated files)
   cupertino_icons:
     dependency: "direct main"
     description:

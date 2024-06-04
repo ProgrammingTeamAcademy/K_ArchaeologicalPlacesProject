@@ -13,8 +13,16 @@ dependencies:
   cupertino_icons: ^1.0.6
   get: ^4.6.6
   convex_bottom_bar: ^3.2.0
+<<<<<<< HEAD
   hive: ^2.2.3
   hive_flutter: ^1.1.0
+=======
+<<<<<<< HEAD
+=======
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+>>>>>>> f4a3591 (Refactored project structure to follow MVC pattern using GetX)
+>>>>>>> f642093 (Refactored project structure: renamed screens to views and updated files)
 
 dev_dependencies:
   flutter_test:
